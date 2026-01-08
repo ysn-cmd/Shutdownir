@@ -1,0 +1,14 @@
+# Python gereksiz dosyalari
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam klasorleri (varsa)
+venv/
+env/
+.env
+
+# Isletim sistemi dosyalari
+.DS_Store
+Thumbs.db
